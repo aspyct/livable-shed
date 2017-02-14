@@ -6,7 +6,7 @@ The livable shed is an effort to document the plans, decisions and assembly inst
 
 The target size of the shed is 3m * 3m (approx. 10 feet by 10 feet). This should provide enough space for a bed, a desk and reasonnable storage. The shed should resist strong winds, rain and be somewhat insulated to retain heat in winter. There are no plans for other commodities such as shower, water or toilets. The construction should require no more than two people, with limited skills and tools. The shed should last at least 20 years.
 
-Please note: I am by no means experimented in woodworking. However, I'll make sure to validate important aspects with professionals.
+Please note: I am by no means experimented in woodworking. However, I'll make sure to validate important aspects with professionals. Hey, seriously, I'll sleep in that shed!
 
 ## What you'll find here
 
