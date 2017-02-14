@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# Livable Shed
 
-You can use the [editor on GitHub](https://github.com/aspyct/livable-shed/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## About the project
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The livable shed is an effort to document the plans, decisions and assembly instructions for a small livable space, that can be used as a year-long shelter for one person.
 
-### Markdown
+The target size of the shed is 3m * 3m (approx. 10 feet by 10 feet). This should provide enough space for a bed, a desk and reasonnable storage. The shed should resist strong winds, rain and be somewhat insulated to retain heat in winter. There are no plans for other commodities such as shower, water or toilets. The construction should require no more than two people, with limited skills and tools. The shed should last at least 20 years.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Please note: I am by no means experimented in woodworking. However, I'll make sure to validate important aspects with professionals.
 
-```markdown
-Syntax highlighted code block
+## What you'll find here
 
-# Header 1
-## Header 2
-### Header 3
+Not everything is available as of now; I'm working on it!
 
-- Bulleted
-- List
+- 3D model of the shed
+- Step by step building instructions
+- Documented material choices
+- Links to other resources online
 
-1. Numbered
-2. List
+## Any remark?
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aspyct/livable-shed/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Feel free to open a ticket or send pull requests. Please note that pull requests on the 3D model may be difficult to integrate.
