@@ -13,6 +13,7 @@ Please note: I am by no means experimented in woodworking. However, I'll make su
 Not everything is available as of now; I'm working on it!
 
 - [3D model of the shed](https://github.com/aspyct/livable-shed/raw/master/shed.skp) (right-click and save). You need SketchUp to open this.
+- JPG renders of the 3D model
 - Step by step building instructions
 - Documented material choices
 - Links to other resources online
